@@ -1,5 +1,5 @@
 {
-    "name": "Basic Operations",
+    "name": "Basic Operations on start",
     "description": "",
     "dependencies": {
         "core": "*",
